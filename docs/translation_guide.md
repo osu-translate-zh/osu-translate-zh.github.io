@@ -1,6 +1,6 @@
 # osu 中文翻译指南
 
-![[Discord链接](https://discord.gg/Gud9s9z)](https://discordapp.com/api/guilds/281826842657161216/widget.png?style=banner2)
+
 
 ## 组织介绍
 
@@ -10,7 +10,7 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 翻译的内容包括 `osu!lazer`，`osu-web` 和 `osu-wiki`。其中：
 
-- `osu!lazer` 正在开发中，i18n（国际化）相关的功能未完成，客户端的翻译工作将会在这些功能完成后开始。
+- `osu!lazer` 正在开发中，i18n（国际化）相关的功能尚未完成，客户端的翻译工作将会在这些功能完成后开始。
 - `osu-web` 目前官网页面的翻译与开发进度保持一致，会以每个月补丁的形式增加新的翻译或者修订已有的翻译。
 - `osu-wiki` 是翻译工作的重点，Wiki 中有大量新增的内容和大量过时的内容需要翻译，精简，修订和补充。
 
@@ -26,9 +26,22 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 为了相互交流和协作，翻译出高质量的内容，我们成立了 osu!中文翻译组织。
 
-我们希望能提供和谐的讨论环境，准确和恰当的翻译参考，高效率地进行翻译工作。
+我们希望能提供和谐的讨论环境，准确和合适的翻译参考，高效率地进行翻译工作。
 
-osu!中文翻译组织 欢迎**任何人**参加到翻译工作中，特别是有 Wiki 翻译经验或者对 osu! 有相当程度的了解的玩家。
+## 加入我们
+
+![[Discord链接](https://discord.gg/Gud9s9z)](https://discordapp.com/api/guilds/281826842657161216/widget.png?style=banner2)
+
+osu!中文翻译组织 欢迎**任何人**参加到翻译工作中，具体要求包括：
+
+- 会使用 Markdown 文本标记语言
+- 注册一个 Github 账号
+- 足够的耐心和负责任的态度
+
+下面两项可作为加分项：
+
+- 对 osu! 有相当程度的了解
+- 有 Wiki 内容编写或翻译的经验
 
 如果你没有这方面的特长，请不用担心，你也可以加入我们贡献一份的微薄之力，我们会安排合适你的相对轻松的工作。
 
@@ -38,16 +51,16 @@ osu!中文翻译组织 欢迎**任何人**参加到翻译工作中，特别是�
 
 osu-wiki 有一套完整的[贡献指南](https://osu.ppy.sh/help/wiki/osu!wiki_contribution_guide)，包括**网页编辑**和**本地编辑**两种贡献翻译方式。
 
-osu!中文翻译组织沿用了这样的贡献指南，但请注意的不同之处：
+osu!中文翻译组织沿用了这样的贡献指南，但请注意有一个不同之处：
 
 - 我们有自己的组织仓库（[osu-translate-zh/osu-wiki](https://github.com/osu-translate-zh/osu-wiki)），区别于官方的仓库（[ppy/osu-wiki](https://github.com/ppy/osu-wiki)）。
-中文翻译工作会在**组织仓库中**进行，在组织内审阅完成后，以组织的名义 Pull Request 到官方仓库。
+中文翻译工作会在**组织仓库中**进行，在组织内审阅完成后，以组织的名义上传（Pull Request）到官方仓库。
 
-具体工作流程请见下文。
+具体工作流程，请根据自己的情况阅读下面两篇指南：
 
-如果你刚刚接触 Github，或者刚刚没有听说过 Git，请阅读这篇新手指南。
+- 如果你刚刚接触 Github，请阅读这篇[新手指南](https://osu-translate-zh.github.io/docs/beginner_guide)。
 
-如果你理解 Github 的翻译流程，能**熟练**的使用 Git，请阅这篇读进阶指南。
+- 如果你能熟练地使用 Git，请阅读这篇[进阶指南](https://osu-translate-zh.github.io/docs/advance_guide)。
 
 ## 翻译指南
 
@@ -57,7 +70,7 @@ osu!中文翻译组织沿用了这样的贡献指南，但请注意的不同之�
 
 ### 文章风格指南 ASC
 
-ASC 由 [@kj415j45](https://github.com/kj415j45) 负责翻译。目前 en 版本已未完成，中文翻译正在进行中。
+ASC 由 [@kj415j45](https://github.com/kj415j45) 负责翻译。目前 en 版本已完成，中文翻译正在进行中。
 
 ### 名词对照表
 

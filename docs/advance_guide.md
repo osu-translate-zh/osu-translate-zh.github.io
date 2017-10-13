@@ -1,38 +1,11 @@
-# 进阶指南
+# 翻译流程（进阶版）
 
-> 面向对 github 非常熟悉的人
-
-（介绍使用 git 的翻译流程）
+> 面向非常熟悉 Git 和 Github 的人，如果你刚刚接触 Github，请先阅读[新手指南](https://osu-translate-zh.github.io/docs/beginner_guide)。
 
 在介绍 osu! 中文翻译的翻译流程之前，我们假定你对 Git（分布式版本控制软件）和 Github（代码托管平台）有一定的了解。具体要求如下：
 
-- 创建了自己的 Github 账号。（**必须**）
-- 理解 Github 的工作流（Workflow）。
-- 电脑上安装了 Git 。（**非必须**）
-  - 会使用 `git commit`，`git fetch`，`git checkout` 这些常用命令。
-
-如果没有的话，请参阅下面的链接，一步步学习如何使用 Git 和 Github。
-
-<!-- git-scm book和廖雪峰博客 -->
-(TODO: some urls)
-
-虽然它们看起来很高大上，甚至很复杂，但是学习它们带来的收益是巨大的，可以给极大的效率提高工作效率。
-
-### 审阅流程
-
-Reviewer 身份组的工作是审阅别人的翻译，留下自己的意见和建议。这与一般的 Review 工作流没有区别。
-
-你可以在 osu-translate-zh 的 [Pull Request 列表](https://github.com/osu-translate-zh/osu-wiki/pulls) 中查看需要 Review 的 PR。
-
-在 PR 中点击某个特定的 Commit 或者点击 `Filed changes`，即可看到相关的修改。
-
-鼠标移动到某行上，直接点击即可输入自己的评论（Comment）。
-
-输入后请点击 `start review` 或 `add review comment`。
-
-完成审阅后，点击评论框中的 `Finish your review`，在右上角的文本框中输入总结性的评论，最后点击 `Submit review`，即完成了一次 Review。
-
-
+- 理解 Github 的工作流（Workflow），明白 Repo，Branch，Pull Request，Review 的含义。
+- 会使用常用的 Git 命令，例如 `git commit`，`git fetch`，`git checkout`。
 
 ### 翻译流程（git）
 
