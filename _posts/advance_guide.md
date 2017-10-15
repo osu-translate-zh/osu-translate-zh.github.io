@@ -1,4 +1,13 @@
-# 翻译流程（进阶版）
+---
+layout:     post
+title:      "翻译流程（进阶版）"
+subtitle:   ""
+date:       2017-10-15 16:06:19
+author:     ""
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 指南
+---
 
 > 面向非常熟悉 Git 和 Github 的人，如果你刚刚接触 Github，请先阅读[新手指南](https://osu-translate-zh.github.io/docs/beginner_guide)。
 

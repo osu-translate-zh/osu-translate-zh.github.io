@@ -1,4 +1,13 @@
-# 新手指南
+---
+layout:     post
+title:      "新手指南"
+subtitle:   ""
+date:       2017-10-15 16:06:19
+author:     ""
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 指南
+---
 
 > 这篇指南面向初次使用 github 的人，如果你已经对 Github 相当了解，可以跳过这篇，阅读[进阶指南](https://osu-translate-zh.github.io/docs/advance_guide)。
 
