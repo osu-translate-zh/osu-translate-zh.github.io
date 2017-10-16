@@ -14,7 +14,7 @@ RSS: false
 # weibo_username:     osu-translate-zh
 # zhihu_username:     osu-translate-zh
 github_username:    osu-translate-zh
-#twitter_username:  osu-translate-zh
+# twitter_username:  osu-translate-zh
 # facebook_username:  osu-translate-zh
 
 
@@ -68,7 +68,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "To the beginning."
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
