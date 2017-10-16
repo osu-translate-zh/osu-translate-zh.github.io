@@ -9,7 +9,7 @@ tags:
     - 指南
 ---
 
-> 面向非常熟悉 Git 和 Github 的人，如果你刚刚接触 Github，请先阅读[新手指南](https://osu-translate-zh.github.io/docs/beginner_guide)。
+> 面向非常熟悉 Git 和 Github 的人，如果你刚刚接触 Github，请先阅读[新手指南](https://osu-translate-zh.github.io/2017/10/15/beginner-guide)。
 
 在介绍 osu! 中文翻译的翻译流程之前，我们假定你对 Git（分布式版本控制软件）和 Github（代码托管平台）有一定的了解。具体要求如下：
 

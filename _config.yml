@@ -5,18 +5,17 @@ header-img: img/home-bg.jpg
 email:
 description: ""
 keyword: ""
-url: "http://osu-translate-zh.github.io/"              # your host, for absolute URL
+url: "https://osu-translate-zh.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
-
 
 
 # SNS settings
 RSS: false
-weibo_username:     osu-translate-zh
-zhihu_username:     osu-translate-zh
+# weibo_username:     osu-translate-zh
+# zhihu_username:     osu-translate-zh
 github_username:    osu-translate-zh
 #twitter_username:  osu-translate-zh
-facebook_username:  osu-translate-zh
+# facebook_username:  osu-translate-zh
 
 
 
@@ -50,9 +49,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -80,21 +79,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Null",
-        href: "#"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# friends: [
+#     {
+#         title: "Null",
+#         href: "#"
+#     },{
+#         title: "Foo",
+#         href: "#"
+#     },{
+#         title: "Bar",
+#         href: "#"
+#     },{
+#         title: "Example Friends",
+#         href: "#"
+#     },{
+#         title: "It helps SEO",
+#         href: "#"
+#     }
+# ]

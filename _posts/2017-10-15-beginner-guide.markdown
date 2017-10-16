@@ -9,7 +9,7 @@ tags:
     - 指南
 ---
 
-> 这篇指南面向初次使用 github 的人，如果你已经对 Github 相当了解，可以跳过这篇，阅读[进阶指南](https://osu-translate-zh.github.io/docs/advance_guide)。
+> 这篇指南面向初次使用 github 的人，如果你已经对 Github 相当了解，可以跳过这篇，阅读[进阶指南](https://osu-translate-zh.github.io/2017/10/15/advance-guide)。
 
 这篇指南将会以通俗易懂的话向你介绍这些内容：
 
