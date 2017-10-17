@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "osu 中文翻译指南"
+title:      "osu! 中文翻译指南"
 subtitle:   ""
 date:       2017-10-15 16:06:19
-author:     ""
+author:     "deardrops"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 指南

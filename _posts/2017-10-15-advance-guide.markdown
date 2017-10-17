@@ -3,7 +3,7 @@ layout:     post
 title:      "进阶指南"
 subtitle:   ""
 date:       2017-10-15 16:06:19
-author:     ""
+author:     "deardrops"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 指南
