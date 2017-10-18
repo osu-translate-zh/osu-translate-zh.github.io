@@ -3,7 +3,7 @@ layout:     post
 title:      "进阶指南"
 subtitle:   ""
 date:       2017-10-15 16:06:19
-author:     "deardrops"
+author:     "Deardrops"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 指南
@@ -14,7 +14,7 @@ tags:
 在介绍 osu! 中文翻译的翻译流程之前，我们假定你对 Git（分布式版本控制软件）和 Github（代码托管平台）有一定的了解。具体要求如下：
 
 - 理解 Github 的工作流（Workflow），明白 Repo，Branch，Pull Request，Review 的含义。
-- 会使用常用的 Git 命令，例如 `git commit`，`git fetch`，`git checkout`。
+- 会使用常用的 Git 命令，例如 `git commit`，`git fetch`，`git checkout` 等。
 
 ### 翻译流程
 
@@ -31,7 +31,6 @@ Translator 身份组的工作是翻译 Wiki 中的文章。
 - 翻译之前，请文件夹中复制一份 `en.md` 文件，并改名为 `zh.md`，并作为第一个 Commit（Commit 信息为 `zh: Init translation`）。
 这是为了方便以后 Review 的时候可以直接对照原文，例如：
 
-<!-- 改用github的图床 -->
 ![files changed](https://wx3.sinaimg.cn/large/006fVPCvly1fkcdzfxfcej30c303aglo.jpg)
 
 比如，你想翻译 `Guides` 页面，需要先在组织中建立一个 `zh-guides` 分支，然后 Fetch 组织仓库，新建一个本地分支，翻译文章，最后 Push 到自己的仓库中，Pull request 到组织仓库中。
