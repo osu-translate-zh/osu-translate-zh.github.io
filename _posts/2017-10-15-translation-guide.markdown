@@ -17,7 +17,7 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 翻译的内容包括 `osu!lazer`，`osu-web` 和 `osu-wiki`。其中：
 
-- `osu!lazer` 正在开发中，i18n（国际化）相关的功能尚未完成，客户端的翻译工作将会在这些功能完成后开始。
+- `osu!lazer` 正在开发中，所有语言的翻译工作都尚未开始。
 - `osu-web` 目前官网页面的翻译与开发进度保持一致，会以每个月补丁的形式增加新的翻译或者修订已有的翻译。
 - `osu-wiki` 是翻译工作的重点，Wiki 中有大量新增的内容需要翻译，有大量过时的内容需要修订和补充。
 
@@ -33,13 +33,13 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 为了相互交流和协作，翻译出高质量的内容，我们成立了 osu!中文翻译组织。
 
-我们希望能提供和谐的讨论环境，准确和合适的翻译参考，高效率地进行翻译工作。
+我们希望能提供和谐的讨论环境，准确和合适的翻译参考，从而高效率地共同进行翻译工作。
 
 ## 加入我们
 
 ![[Discord链接](https://discord.gg/Gud9s9z)](https://discordapp.com/api/guilds/281826842657161216/widget.png?style=banner2)
 
-osu!中文翻译组织 欢迎**任何人**参加到翻译工作中，具体要求包括：
+osu!中文翻译组织 欢迎**任何人**参与到翻译工作中，具体要求包括：
 
 - 会使用 Markdown 文本标记语言
 - 注册一个 Github 账号
@@ -73,14 +73,14 @@ osu!中文翻译组织 欢迎**任何人**参加到翻译工作中，具体要�
 ### 规则 Rules
 
 1. 翻译应当尊重原文，清晰通顺地表达原文意思，并且符合中文阅读的习惯。
-2. 翻译可以在不改变原文的意思的前提下适当地进行意译，切勿通篇直译或意译。
+2. 翻译可以在不改变原文意思的前提下适当地进行意译，切勿通篇直译或意译。
 3. 翻译应当保持客观叙述的语气，不能随意使用“黑话”和“梗”。
 4. 专有名词请参考 [osu! 中文翻译 名词对照表](https://docs.google.com/spreadsheets/d/1zhUP0qekKRUWb1Mu-P89mwu_HcPBen5FoGPqD2MkI7k)。
-5. 标点符号，空格，段落等格式请参阅 [文章风格指南](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria)。
+5. 标点符号，空格，段落等格式请参阅 [文章风格指南](https://osu.ppy.sh/help/wiki/Article_Styling_Criteriahttps://osu.ppy.sh/help/wiki/Article_Styling_Criteria?locale=zh)。
 
 ### 文章风格指南 ASC
 
-ASC 由 [@kj415j45](https://github.com/kj415j45) 负责翻译，参见：[文章风格指南](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria)
+ASC 由 [@kj415j45](https://github.com/kj415j45) 翻译完成，参见：[文章风格指南](https://osu.ppy.sh/help/wiki/Article_Styling_Criteriahttps://osu.ppy.sh/help/wiki/Article_Styling_Criteria?locale=zh)
 
 ### 名词对照表
 
@@ -93,18 +93,24 @@ ASC 由 [@kj415j45](https://github.com/kj415j45) 负责翻译，参见：[文章
 请参照以下的 Commit message：
 
 1. `zh: init translation` 第一个 commit。
-复制 `en.md` 并重命名为 `zh.md`。
+
+    复制 `en.md` 并重命名为 `zh.md`。
 
 2. `zh: 英文的文章标题` 完成了部分翻译。
 
-可以重复使用多次这句 Commit message。但是，太多的话会被管理员 Squash 成一次 Commit。
+    可以重复使用多次这句 Commit message。
 
-当某篇 Wiki 包含子页面时，请使用 `-` 符号连接，写上完整的标题。例如： `Ranking_Criteria - osu!catch`
+    但是，太多的话会被管理员 Squash 成一次 Commit。
+
+    当某篇 Wiki 包含子页面时，请使用 `-` 符号连接，写上完整的标题。
+
+    例如： `Ranking_Criteria - osu!catch`
 
 3. `zh: apply reivews` 根据 review 修改一些翻译语句。
 
 4. `zh: finish 英文的文章标题(osu-translate-zh#xxx)` 完成了所有翻译。
-这句作为最后的 commit，也作为 merge commit。
+
+    这句作为最后的 commit，也作为 merge commit。
 
 注意：Commit messege **不可以** 包含中文。
 
