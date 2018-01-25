@@ -1,13 +1,13 @@
 # Site settings
 title: osu!中文翻译组织
-SEOTitle: osu!中文翻译组织 | osu!translate zh
+SEOTitle: osu!中文翻译组织
 header-img: img/home-bg.jpg
 email:
 description: ""
 keyword: ""
 url: "https://osu-translate-zh.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
-
+iconurl: "https://avatars2.githubusercontent.com/u/31220039?v=4&s=25"
 
 # SNS settings
 RSS: false
