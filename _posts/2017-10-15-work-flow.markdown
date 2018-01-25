@@ -14,7 +14,7 @@ tags:
 - 理解 Github 的工作流（Workflow），明白 Repo，Branch，Pull Request，Review 的含义。
 - 会使用常用的 Git 命令，例如 `git commit`，`git fetch`，`git checkout` 等。
 
-如果你还不了解的话，可以通过这些 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resource) 学习它们。
+如果你还不了解的话，可以通过这些 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resources/) 学习它们。
 
 ### 翻译流程
 
