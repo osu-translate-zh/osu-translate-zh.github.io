@@ -56,7 +56,7 @@ osu!中文翻译组织 欢迎**任何人**参与到翻译工作中，你需要�
 
 中文翻译工作会在**组织仓库**中进行，在组织内审阅完成后，再上传（Pull Request）到**官方仓库**。
 
-具体工作流程，请参阅 [工作流程](https://osu-translate-zh.github.io/2017/10/15/work-flow/)。
+具体工作流程，请参阅 [工作流程](https://osu-translate-zh.github.io/2017/10/15/work-flow)。
 
 ## 翻译指南 Guideness
 
@@ -125,7 +125,7 @@ osu!中文翻译组织 欢迎**任何人**参与到翻译工作中，你需要�
 
 针对想要学习新技能来帮助翻译工作的同学，我们特地列出一些有关于 Markdown 标记语言，GitHub 和 Git 的学习资源。
 
-详情请参见 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resources/)。
+详情请参见 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resources)。
 
 ## 相关链接
 

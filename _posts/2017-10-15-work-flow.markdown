@@ -12,7 +12,7 @@ tags:
 - 理解 Github 的工作流（Workflow），明白 Repo，Branch，Pull Request，Review 的含义。
 - 会使用常用的 Git 命令，例如 `git commit`，`git fetch`，`git checkout` 等。
 
-如果你还不了解的话，可以通过这些 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resources/) 学习它们。
+如果你还不了解的话，可以通过这些 [学习资源](https://osu-translate-zh.github.io/2017/10/15/learning-resources) 学习它们。
 
 ### 翻译流程
 
@@ -67,7 +67,7 @@ git push -u origin zh-guides
 
 8. 去 ppy 仓库 Pull request 这个分支。一般会很快被合并进 Master 分支。
 
-你可以在 [Issues 列表](https://github.com/orgs/osu-translate-zh/projects/1) 中查看需要翻译的文章。
+你可以在 [Issues 列表](https://github.com/osu-translate-zh/osu-wiki/issues) 中查看需要翻译的文章。
 
 ### 审阅流程
 
