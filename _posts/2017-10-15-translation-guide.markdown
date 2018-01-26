@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "osu!中文翻译指南"
-date:       2017-10-15 16:00:00
+date:       2017-10-15 16:00:02
 author:     "Deardrops"
 tags:
     - 指南
