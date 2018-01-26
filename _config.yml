@@ -27,11 +27,11 @@ nav_lists:
 
 remote_theme: kitian616/jekyll-TeXt-theme
 
-# paths:
-#   base: /
-#   home: /
-#   all:  /all.html
-#   rss:  /feed.xml
+paths:
+  base: /
+  home: /
+  all:  /all.html
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository:  osu-translate-zh/osu-translate-zh.github.io/
