@@ -1,10 +1,8 @@
 ---
 layout:     post
 title:      "osu!中文翻译指南"
-subtitle:   ""
-date:       2017-10-15 16:06:19
+date:       2017-10-15 16:00:00
 author:     "Deardrops"
-header-img: "img/post-bg-2015.jpg"
 tags:
     - 指南
 ---
@@ -31,7 +29,7 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 ## 加入我们 Join Us
 
-<a href="https://discord.gg/Gud9s9z">
+<a href="https://discord.gg/Gud9s9z" target="discord">
   <img src="https://discordapp.com/api/guilds/281826842657161216/widget.png?style=banner2"/>
 </a>
 

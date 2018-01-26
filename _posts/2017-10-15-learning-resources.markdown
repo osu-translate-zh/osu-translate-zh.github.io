@@ -1,10 +1,8 @@
 ---
 layout:     post
 title:      "学习资源"
-subtitle:   ""
-date:       2017-10-15 16:06:19
+date:       2017-10-15 16:00:01
 author:     "Deardrops"
-header-img: "img/post-bg-2015.jpg"
 tags:
     - 指南
 ---
