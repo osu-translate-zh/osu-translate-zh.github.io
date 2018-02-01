@@ -23,7 +23,7 @@ tags:
 
 具体工作流程，请参阅 [工作流程](https://osu-translate-zh.github.io/2017/10/15/work-flow)。
 
-## 翻译指南 Guideness
+## 翻译指南 Guidelinez
 
 ### 规则 Rules
 
