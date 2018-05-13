@@ -30,7 +30,7 @@ osu-translate-zh（osu!中文翻译组织）是由玩家自发参与和贡献的
 
 ## 加入我们 Join Us
 
-<a href="https://discord.gg/Gud9s9z" target="discord">
+<a href="https://discord.gg/xnWpxzZ" target="discord">
   <img src="https://discordapp.com/api/guilds/281826842657161216/widget.png?style=banner2"/>
 </a>
 
